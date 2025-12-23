@@ -4,3 +4,9 @@ qemu/
 config/
 *.iso
 *.cast
+workspace/
+!workspace/entrypoint
+!workspace/forwarder
+!workspace/.config/zellij
+!workspace/README.md
+!.keep
